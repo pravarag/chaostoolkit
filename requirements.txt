@@ -4,3 +4,4 @@ pycodestyle
 logzero
 chaostoolkit-lib>=0.20.0
 requests
+python-json-logger
